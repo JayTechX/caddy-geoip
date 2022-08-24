@@ -1,4 +1,4 @@
-module github.com/vinissimus/caddy-geoip
+module github.com/JayTechX/caddy-geoip
 
 go 1.15
 
